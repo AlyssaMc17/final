@@ -1,0 +1,202 @@
+#IMG_1 {
+  height: auto;
+  max-width: 35%;
+  text-align: center;
+  align: center;
+}
+
+#banner {
+  color: #fff;
+  text-align: center;
+  background: #369 url("http://kingofwallpapers.com/nebula/nebula-019.jpg") center 0 no-repeat;
+  background-size: cover;
+  padding: 1em 0
+}
+
+#banner h1 {
+  padding: 20% 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+H1{
+  align: left;
+  color: #000;
+  font-family: arial;
+  font-size: 50px;
+}
+
+H2 {
+    text-align: center;
+    color: #fff;
+}
+
+h3{
+  text-align: center;
+  color: #fff;
+  font-size: 12px;
+}
+
+h4{
+  text-align: center;
+}
+
+h5{
+  text-align: left;
+  color: #fff;
+  font-family: arial;
+
+}
+
+
+  body {
+    margin: 0;
+      align: center;
+      Background: #000;
+  }
+
+  section {
+    overflow: hidden;
+  }
+
+  details {
+    margin: 1em 0;
+    }
+
+    .max-width {
+      max-width: 58em;
+      padding: 0 1em;
+      margin: 0 auto;
+    }
+
+    .marker--after summary:after {
+      visibility: visible;
+      display: inline-block;
+      content: "[show]";
+      font-family: monospace;
+      color: #999;
+      margin-left: -.8em;
+      }
+
+    .marker--after[open] summary:after {
+      content: "[hide]";
+      }
+
+    .marker--after summary:hover:after,
+    .marker--after summary:focus:after {
+      color: #000;
+      }
+
+    /* add marker before / faux replacement marker */
+
+    .marker--before summary:before {
+      visibility: visible;
+      float: left;
+      position: relative;
+      top: .11em;
+      content: "";
+      font-family: monospace;
+      padding-bottom: 3px;
+      padding-left: 1.5em;
+      border-top: 9px double #999;
+      border-bottom: 3px solid #999;
+      margin-right: .5em;
+      }
+
+    .marker--before summary:hover:before,
+    .marker--before summary:focus:before {
+      border-color: #000;
+      }
+
+    .marker-hide .details-content {
+      clear: both; /* clear float (summary) */
+      }
+
+  .group {
+    overflow: hidden; /* clear floats and hide extra magic height (see below) */
+  }
+
+  .principle {
+    font-family: sans-serif;
+    padding-bottom: 25em; /* magic height, add up to 10em of extra height */
+    margin-bottom:  -25em; /* magic height, adjust height to match uneven height */
+    align: center;
+  }
+
+  .principle .padding {
+    padding: 1em;
+      align: center;
+  }
+
+  .principle h2 {
+    margin-top: 0;
+    align: center;
+  }
+
+  .principle p {
+    margin-bottom: 0;
+      align: center;
+  }
+
+  #principle-1 {
+    background: #3e2a96;
+      align: center;
+  }
+
+  #principle-1 img {
+    align: center;
+  }
+
+  #principle-2 {
+    background: #440c16;
+      align: center;
+  }
+
+  #principle-3 {
+    background: #070A45;
+      align: center;
+  }
+
+  #principle-4 {
+    background: #5196AC;
+      align: center;
+  }
+
+  #principle-5 {
+    background: #9348B6;
+      align: center;
+  }
+
+  #principle-6 {
+    background: #540C76;
+      align: center;
+  }
+
+  #principle-7 {
+    background: #7D1264;
+      align: center;
+  }
+
+  #principle-8 {
+    background: #985288;
+      align: center;
+  }
+
+  #principle-9 {
+    background: #60749b;
+      align: center;
+  }
+
+  #principle-10 {
+    background: #735b82;
+      align: center;
+  }
+
+  @media (min-width: 48em) {
+
+    .principle {
+      float: left;
+      width: 50%;
+    }
+
+  }
