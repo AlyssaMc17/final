@@ -140,7 +140,12 @@ h5{
   }
 
   #principle-1 {
-    background: #3e2a96;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #3e2a96,
+   #ba91e2
+ );
       align: center;
   }
 
@@ -149,47 +154,92 @@ h5{
   }
 
   #principle-2 {
-    background: #440c16;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #440c16,
+   #9b606c
+ );
       align: center;
   }
 
   #principle-3 {
-    background: #070A45;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #070A45,
+   #6d74ff
+ );
       align: center;
   }
 
   #principle-4 {
-    background: #5196AC;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #5196AC,
+   #216d87
+ );
       align: center;
   }
 
   #principle-5 {
-    background: #9348B6;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #9348B6,
+   #dba0f7
+ );
       align: center;
   }
 
   #principle-6 {
-    background: #540C76;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #540C76,
+   #ba43f2
+ );
       align: center;
   }
 
   #principle-7 {
-    background: #7D1264;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #7c1272,
+   #e033b8
+ );
       align: center;
   }
 
   #principle-8 {
-    background: #985288;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #7c116f,
+   #d374c8
+ );
       align: center;
   }
 
   #principle-9 {
-    background: #60749b;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #60749b,
+   #3b67bf
+ );
       align: center;
   }
 
   #principle-10 {
-    background: #735b82;
+    background:
+    radial-gradient(
+   circle at 0 0,
+   #735b82,
+   #6b2399
+ );
       align: center;
   }
 
